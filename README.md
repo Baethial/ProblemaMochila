@@ -1,0 +1,2 @@
+# ProblemaMochila
+El problema consiste en elegir un subconjunto de n artículos maximizando el beneficio obtenido considerando el peso total de los artículos seleccionados, sin exceder la capacidad c de la mochila
